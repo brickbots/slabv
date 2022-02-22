@@ -1,6 +1,7 @@
 # slabV
 
-A 36 key MX keyboard based on the [Horizon](https://github.com/skarrmann/horizon) 
+A 36 key MX keyboard based on the [Horizon](https://github.com/skarrmann/horizon) with an acrylic stacked case featuring multiple 
+full coverage silicone gaskets.
 
 ![slabV](./images/overview.jpeg "slabV")
 
