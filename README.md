@@ -14,10 +14,11 @@ between layers damped with a gasket.
 ![slabV stack](./images/stack.jpeg "slabV stack")
 
 You can see in the image above there is the PCB, with a gasket +
-acrylic layer below, and two more acrylic layers with gaskets above.
+acrylic layer below, and two more acrylic layers with gaskets above. The gaskets are the white layers, PCB is black and acrylic is clear.
 
-Here's an image of the bottom gasket + acrylic (still with the
-protective cover).  These two examples are defective, but they 
+Here's an image of the pcb, bottom gasket and bottom acrylic 
+layer (still with the protective cover).  These examples 
+are defective early protoypes, but they 
 show the combination of the extra kicad footprints from the
 horizon used to cut specific clearance for the underside layers.
 
