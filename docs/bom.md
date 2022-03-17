@@ -14,6 +14,7 @@ Quantity|Item|URL
 12|M2 6mm Screws|
 
 ## Laser Cut Stuff
+Quantity|Item|URL
 ---|---|---
 1|Acrylic bottom plate - 1mm thickness| /case/slabv_bot.dxf
 1|Silicon bottom gasket - 0.5mm thickness| /case/slabv_bot.dxf

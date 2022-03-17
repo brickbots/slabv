@@ -30,3 +30,8 @@ horizon used to cut specific clearance for the underside layers.
 This whole stack produces a very solid and pleasingly dampened 
 sound which could be described as Thocky if one was so disposed!
 It's also about as low profile as can be with full size MX switches.
+
+For complete build information see:
+* [build guide](./docs/build_guide.md) 
+* [Parts List](./docs/bom.md) 
+
