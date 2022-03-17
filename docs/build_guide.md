@@ -5,8 +5,9 @@ take a look at the parts list to get oriented:
 [Parts list (BOM)](../docs/bom.md)
 
 Some of the construction descriptions make this whole thing sound
-more complex than it really is.  Take a look at the photos and it 
-hopefully all make sense.  Email with any questions!
+more complex than it really is.  Take a look at the 
+[images](../images)
+ and it hopefully all make sense.  Email with any questions!
 
 ## Flash
 
