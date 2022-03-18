@@ -61,7 +61,7 @@ fix problems if you have not opted for hot-swap sockets.
 
 ### A note on the 3mm M2 female/female standoffs
 There is about 3mm of space between the PCB and the top acrylic 
-layer (2 x 0.5 silicone layers and one 1.5mm acrylic piece) if 
+layer (2 x 0.5 silicone layers and one 2mm acrylic piece) if 
 all the layers are exactly at spec. Ideally, you'll want your 
 stand-offs to be a bit shorter than the distance between the PCB
 and the bottom of the top acrylic piece so that as you tighten 

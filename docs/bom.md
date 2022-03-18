@@ -18,10 +18,10 @@ Quantity|Item|URL
 ---|---|---
 1|Acrylic bottom plate - 1mm thickness| /case/slabv_bot.dxf
 1|Silicon bottom gasket - 0.5mm thickness| /case/slabv_bot.dxf
-1|Acrylic Mid plate - 1.5mm thickness| /case/slabv_mid.dxf
+1|Acrylic Mid plate - 2.0mm thickness| /case/slabv_mid.dxf
 2|Silicon Mid plate - 0.5mm thickness| /case/slabv_mid.dxf
-1|Acrylic Top plate - 1.5mm thickness| /case/slabv_top.dxf
-1|Acrylic MCU Cover - 1mm thickness| /case/slabv_mcu.dxf
+1|Acrylic Top plate - 2.0mm thickness| /case/slabv_top.dxf
+1|Acrylic MCU Cover - 1.5mm thickness| /case/slabv_mcu.dxf
 
 ## Electronics
 Quantity|Item|URL
